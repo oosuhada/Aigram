@@ -1,6 +1,14 @@
 # Aigram
 
-AI 기능을 붙인 Instagram 스타일 SNS 포트폴리오 프로젝트입니다. 처음에는 프론트엔드 클론 학습으로 시작했지만, 이후 feed, stories, reels, messages, search, notifications, profile, dark/light theme, AI 댓글 요약, 캡션 번역, 검색/백엔드 구조까지 확장했습니다.
+AI 기능을 붙인 Instagram 스타일 SNS 풀스택 포트폴리오 프로젝트입니다. Firebase 같은 managed backend를 연결해 쓰는 단계를 넘어, **처음으로 Java/Spring Boot 백엔드까지 직접 설계하며 만든 풀스택 프로젝트**라는 점이 이 작업에서 가장 중요한 출발점입니다.
+
+## 왜 만들었나 / Why I built it
+
+그 전까지는 UI/UX 중심으로 개발하거나 Firebase 같은 기존 서비스를 연결하고, 웹에서는 Next.js 정도로 backend 역할을 처리하는 경우가 많았습니다. 이 프로젝트에서는 처음으로 Java와 Spring Boot를 이용해 API와 데이터 구조까지 직접 만들면서 frontend와 backend가 실제로 어떻게 맞물리는지 끝까지 경험해 보고 싶었습니다.
+
+주제는 단순 Instagram clone이 아니라 **“지금의 Instagram에서 불편한 부분을 미래의 AI 기능으로 보완한다면 어떨까?”**라는 상상에서 잡았습니다. 예를 들어 번역 품질을 더 자연스럽게 만들거나, 긴 본문과 댓글 흐름을 요약하고, 검색과 추천에서 AI가 맥락을 이해하게 하는 식입니다. 그래서 익숙한 SNS UX를 기반으로 시작하되, Java backend와 AI 기능을 함께 실험하는 첫 풀스택 작품으로 확장했습니다.
+
+Aigram was my first project where I deliberately moved beyond attaching a managed backend and built the Java/Spring Boot side of the product myself. Instagram provided a familiar product surface, while the real experiment was imagining how AI could improve pain points such as translation quality, long-form content summarization, and contextual discovery.
 
 [Live demo](https://aigram.oosu.dev)
 
