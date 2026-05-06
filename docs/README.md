@@ -1,6 +1,6 @@
 # docs/README.md - 문서 통합 허브 (Spring Boot + JPA 기반)
 
-InstaClone 프로젝트의 모든 기술 문서, 가이드, 아키텍처 설계를 통합 관리하는 허브입니다. 본 프로젝트는 **Next.js (Frontend)와 Spring Boot (Backend)**를 분리한 현대적인 풀스택 아키텍처를 따릅니다.
+Aigram 프로젝트의 모든 기술 문서, 가이드, 아키텍처 설계를 통합 관리하는 허브입니다. 본 프로젝트는 **Next.js (Frontend)와 Spring Boot (Backend)**를 분리한 현대적인 풀스택 아키텍처를 따릅니다.
 
 ## 🧭 문서 지도
 
@@ -8,7 +8,7 @@ InstaClone 프로젝트의 모든 기술 문서, 가이드, 아키텍처 설계�
 - 프로젝트 내 모든 문서 파일의 위치와 목적을 정의합니다.
 
 ### 2. 기술 가이드 (guides/)
-- [로드맵 가이드](./guides/01-instagram-roadmap-guide.md): 인스타그램 클론의 핵심 기능 구현 단계.
+- [로드맵 가이드](./guides/01-instagram-roadmap-guide.md): Aigram의 핵심 기능 구현 단계.
 - [Skeleton UI](./guides/02-skeleton-ui.md): 로딩 성능 최적화 가이드.
 - [낙관적 업데이트](./guides/03-optimistic-updates.md): 무지연 인터랙션 구현법.
 - [무한 스크롤](./guides/04-infinite-scroll.md): Intersection Observer 활용법.

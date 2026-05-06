@@ -1,6 +1,6 @@
 # docs/database/schema-diagram.md - 스키마 다이어그램 (Mermaid)
 
-InstaClone의 데이터베이스 구조를 시각화한 다이어그램입니다.
+Aigram의 데이터베이스 구조를 시각화한 다이어그램입니다.
 
 ## 📊 ER 다이어그램
 

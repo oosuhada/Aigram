@@ -1,6 +1,6 @@
 # docs/code-examples/instagram-code-examples.md - 핵심 기능 코드 예제 인덱스
 
-InstaClone 프로젝트의 주요 기술적 해결책과 구현 패턴을 모은 인덱스입니다.
+Aigram 프로젝트의 주요 기술적 해결책과 구현 패턴을 모은 인덱스입니다.
 
 ## 📂 카테고리별 예제
 

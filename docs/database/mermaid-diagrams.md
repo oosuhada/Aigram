@@ -1,4 +1,4 @@
-# Instagram 클론 - Mermaid 다이어그램 (Spring Boot & JPA 기반)
+# Aigram - Mermaid 다이어그램 (Spring Boot & JPA 기반)
 
 ---
 

@@ -1,4 +1,4 @@
-# docs/guides/01-instagram-roadmap-guide.md - 인스타그램 클론 구현 가이드
+# docs/guides/01-instagram-roadmap-guide.md - Aigram 구현 가이드
 
 인스타그램의 핵심 기능을 프론트엔드와 백엔드로 나누어 구현하는 상세 가이드입니다.
 

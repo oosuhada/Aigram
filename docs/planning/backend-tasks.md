@@ -1,6 +1,6 @@
 # docs/planning/backend-tasks.md - 백엔드 개발 태스크 (Spring Boot & JPA)
 
-인스타그램 클론 백엔드 서버(REST API) 구축을 위한 세부 작업 항목입니다.
+Aigram 백엔드 서버(REST API) 구축을 위한 세부 작업 항목입니다.
 
 ## 📋 개발 태스크 목록
 

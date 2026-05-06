@@ -1,6 +1,6 @@
 # docs/architecture/03-data-flow.md - 데이터 흐름도
 
-InstaClone의 클라이언트와 서버 간 데이터 순환 구조를 설명합니다.
+Aigram의 클라이언트와 서버 간 데이터 순환 구조를 설명합니다.
 
 ## 🔄 게시물 로드 흐름 (Read)
 1. **Request**: 사용자가 메인 페이지 접속.
