@@ -1,5 +1,5 @@
 'use client';
-import Messages from "../../src/pages/Messages";
+import Messages from "../../src/views/Messages";
 export default function Page() {
   return <Messages />;
 }

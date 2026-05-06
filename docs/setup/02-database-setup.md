@@ -1,6 +1,6 @@
 # docs/setup/02-database-setup.md - 데이터베이스 설치 및 연결
 
-InstaClone에서 사용하는 관계형 데이터베이스(RDBMS) 설정 가이드입니다.
+Aigram에서 사용하는 관계형 데이터베이스(RDBMS) 설정 가이드입니다.
 
 ## 💾 데이터베이스 선택
 프로젝트는 **PostgreSQL** (권장) 또는 **MySQL**을 사용합니다.
@@ -9,7 +9,7 @@ InstaClone에서 사용하는 관계형 데이터베이스(RDBMS) 설정 가이�
 ### PostgreSQL
 ```bash
 docker run --name insta-db \
-  -e POSTGRES_PASSWORD=password123 \
+  -e POSTGRES_PASSWORD=change-me-local-only \
   -e POSTGRES_DB=instagram \
   -p 5432:5432 \
   -d postgres
@@ -23,7 +23,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/instagram
     username: postgres
-    password: password123
+    password: ${DB_PASSWORD}
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:

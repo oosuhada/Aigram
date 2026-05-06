@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../../../src/pages/Profile.jsx";
+import Profile from "../../../src/views/Profile.jsx";
 import { mockUsers } from "../../../src/data/mockUsers";
 import { extractProfileMetadata } from "../../../lib/extract-content";
 

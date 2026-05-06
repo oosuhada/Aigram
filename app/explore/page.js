@@ -1,5 +1,5 @@
 'use client';
-import ExplorePage from "../../src/pages/ExplorePage";
+import ExplorePage from "../../src/views/ExplorePage";
 export default function Page() {
   return <ExplorePage />;
 }
