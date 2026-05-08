@@ -1,6 +1,6 @@
 # docs/setup/03-seed-data.md - 초기 데이터 주입 가이드
 
-InstaClone 프로젝트의 개발 및 테스트를 위한 대량 더미 데이터(Seed Data) 주입 방법입니다.
+Aigram 프로젝트의 개발 및 테스트를 위한 대량 더미 데이터(Seed Data) 주입 방법입니다.
 
 ## 🐍 1단계: Python 데이터 생성 (선택 사항)
 `docs/database/dummy-data-generator.py`를 실행하여 JSON 또는 SQL 형식의 데이터를 생성합니다.
@@ -23,7 +23,7 @@ public class DataLoader implements CommandLineRunner {
             User user = new User("alice", "alice@example.com");
             userRepository.save(user);
             
-            Post post = new Post(user, "Hello InstaClone!");
+            Post post = new Post(user, "Hello Aigram!");
             postRepository.save(post);
             
             System.out.println("Seed Data Loaded Successfully!");

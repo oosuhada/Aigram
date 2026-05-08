@@ -3,8 +3,8 @@ import { Providers } from "./providers";
 import ClientLayout from "./components/ClientLayout";
 
 export const metadata = {
-  title: "InstaClone",
-  description: "Instagram Clone Project for AI Fullstack Course",
+  title: "Aigram",
+  description: "AI-assisted social media portfolio project with feed, reels, messages, dark mode, and AI interaction features.",
   icons: {
     icon: "/favicon.png",
   },

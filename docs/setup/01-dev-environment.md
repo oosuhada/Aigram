@@ -1,6 +1,6 @@
 # docs/setup/01-dev-environment.md - 개발 환경 구축
 
-InstaClone 프로젝트 개발을 위한 필수 도구 및 언어 설정 가이드입니다.
+Aigram 프로젝트 개발을 위한 필수 도구 및 언어 설정 가이드입니다.
 
 ## 🛠 필수 소프트웨어
 1. **Java Development Kit (JDK) 17+**: 백엔드(Spring Boot 3) 실행을 위해 필수입니다.

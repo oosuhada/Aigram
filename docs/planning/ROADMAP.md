@@ -1,6 +1,6 @@
-# docs/planning/ROADMAP.md - InstaClone 프로젝트 통합 로드맵
+# docs/planning/ROADMAP.md - Aigram 프로젝트 통합 로드맵
 
-인스타그램 클론 프로젝트의 기술적 완성도와 실질적인 서비스 출시를 위한 전체 일정 및 목표입니다.
+Aigram 프로젝트의 기술적 완성도와 실질적인 서비스 출시를 위한 전체 일정 및 목표입니다.
 
 ## 📌 현재 진행 상황 (Status)
 - **Frontend Core**: 95% 완료 (피드, 스토리, 검색, 프로필 UI 및 로직)

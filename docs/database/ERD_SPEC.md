@@ -1,4 +1,4 @@
-# 🗄️ InstaClone 초정밀 ERD 명세서 (Enterprise Level v1.2)
+# 🗄️ Aigram 초정밀 ERD 명세서 (Enterprise Level v1.2)
 
 본 문서는 인스타그램의 핵심 기능을 완벽히 구현하기 위한 데이터베이스 설계도입니다. 모든 CRUD 작업과 데이터 추적(Audit) 기능을 포함합니다.
 

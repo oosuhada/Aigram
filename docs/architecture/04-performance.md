@@ -1,6 +1,6 @@
 # docs/architecture/04-performance.md - 성능 최적화 전략
 
-사용자 경험(UX) 극대화를 위한 InstaClone의 성능 최적화 기법입니다.
+사용자 경험(UX) 극대화를 위한 Aigram의 성능 최적화 기법입니다.
 
 ## 🚀 렌더링 최적화
 - **Server Components**: 자바스크립트 번들 크기를 줄이기 위해 대부분의 정적 컨텐츠를 서버 컴포넌트로 구현.

@@ -1,6 +1,6 @@
 # docs/architecture/01-system-overview.md - 시스템 아키텍처 개요
 
-InstaClone 프로젝트의 전체적인 기술 스택과 서버 구성을 설명합니다.
+Aigram 프로젝트의 전체적인 기술 스택과 서버 구성을 설명합니다.
 
 ## 🏗 전체 구조
 본 프로젝트는 **Next.js 14 (App Router)**를 중심으로 한 Full-stack 웹 애플리케이션입니다.

@@ -1,6 +1,6 @@
 # docs/architecture/02-api-endpoints.md - API 엔드포인트 명세서
 
-InstaClone에서 사용하는 Spring Boot REST API 엔드포인트 목록입니다.
+Aigram에서 사용하는 Spring Boot REST API 엔드포인트 목록입니다.
 
 ## 🔑 REST API (Backend)
 백엔드 서버(Spring Boot)에서 제공하는 주요 API 목록입니다. 모든 요청은 JSON 형식을 사용하며, 인증이 필요한 경우 JWT 토큰이 필요합니다.
