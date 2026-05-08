@@ -1,4 +1,4 @@
-// src/pages/ExplorePage.jsx
+// src/views/ExplorePage.jsx
 'use client';
 
 import React from "react";
