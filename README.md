@@ -109,6 +109,13 @@ http://localhost:3000
 npm run build
 ```
 
-## Topics
+## Architecture & Topics / 아키텍처 및 주제
 
-[`frontend`](https://github.com/topics/frontend) · [`javascript`](https://github.com/topics/javascript) · [`nextjs`](https://github.com/topics/nextjs) · [`portfolio`](https://github.com/topics/portfolio) · [`react`](https://github.com/topics/react) · [`responsive-design`](https://github.com/topics/responsive-design) · [`social-media`](https://github.com/topics/social-media) · [`tailwindcss`](https://github.com/topics/tailwindcss) · [`social-network`](https://github.com/topics/social-network) · [`ui-design`](https://github.com/topics/ui-design) · [`web-app`](https://github.com/topics/web-app) · [`css`](https://github.com/topics/css) · [`responsive-web-design`](https://github.com/topics/responsive-web-design) · [`vite`](https://github.com/topics/vite) · [`frontend-development`](https://github.com/topics/frontend-development) · [`portfolio-project`](https://github.com/topics/portfolio-project)
+**Architecture / 아키텍처**<br>
+[`single-page-application`](https://github.com/topics/single-page-application) · [`component-based-ui`](https://github.com/topics/component-based-ui) · [`client-side-routing`](https://github.com/topics/client-side-routing) · [`client-side-state`](https://github.com/topics/client-side-state) · [`responsive-design-system`](https://github.com/topics/responsive-design-system) · [`static-deployment`](https://github.com/topics/static-deployment)
+
+**Project context / 프로젝트 맥락**<br>
+[`frontend`](https://github.com/topics/frontend) · [`frontend-development`](https://github.com/topics/frontend-development) · [`portfolio`](https://github.com/topics/portfolio) · [`portfolio-project`](https://github.com/topics/portfolio-project) · [`responsive-design`](https://github.com/topics/responsive-design) · [`responsive-web-design`](https://github.com/topics/responsive-web-design) · [`social-media`](https://github.com/topics/social-media) · [`social-network`](https://github.com/topics/social-network) · [`ui-design`](https://github.com/topics/ui-design) · [`web-app`](https://github.com/topics/web-app)
+
+**Implementation stack / 구현 스택**<br>
+[`css`](https://github.com/topics/css) · [`javascript`](https://github.com/topics/javascript) · [`nextjs`](https://github.com/topics/nextjs) · [`react`](https://github.com/topics/react) · [`tailwindcss`](https://github.com/topics/tailwindcss) · [`vite`](https://github.com/topics/vite)
