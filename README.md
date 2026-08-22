@@ -108,3 +108,7 @@ http://localhost:3000
 ```bash
 npm run build
 ```
+
+## Topics
+
+[`frontend`](https://github.com/topics/frontend) · [`javascript`](https://github.com/topics/javascript) · [`nextjs`](https://github.com/topics/nextjs) · [`portfolio`](https://github.com/topics/portfolio) · [`react`](https://github.com/topics/react) · [`responsive-design`](https://github.com/topics/responsive-design) · [`social-media`](https://github.com/topics/social-media) · [`tailwindcss`](https://github.com/topics/tailwindcss)
